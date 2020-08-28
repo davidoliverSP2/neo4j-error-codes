@@ -1,0 +1,2 @@
+ The request (directly or indirectly) referred to an index that is in a failed state. The index needs to be dropped and recreated manually.
+

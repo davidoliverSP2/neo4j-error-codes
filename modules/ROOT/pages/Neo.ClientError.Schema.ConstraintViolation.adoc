@@ -1,0 +1,2 @@
+ Added or changed index entry would violate constraint
+

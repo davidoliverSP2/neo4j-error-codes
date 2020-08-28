@@ -1,0 +1,2 @@
+ The maximum number of tokens of this type has been reached, no more tokens of this type can be created.
+

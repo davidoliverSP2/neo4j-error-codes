@@ -1,0 +1,2 @@
+ The database was unable to start the transaction.
+

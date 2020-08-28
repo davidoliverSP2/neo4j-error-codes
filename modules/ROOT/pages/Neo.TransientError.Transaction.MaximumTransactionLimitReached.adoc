@@ -1,0 +1,2 @@
+ Unable to start new transaction since the maximum number of concurrently executing transactions is reached (dbms.transaction.concurrent.maximum). You can retry at a later time or consider increasing allowed maximum of concurrent transactions.
+

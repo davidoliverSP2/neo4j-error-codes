@@ -1,0 +1,2 @@
+ This is an administration command and it should be executed against the system database.
+

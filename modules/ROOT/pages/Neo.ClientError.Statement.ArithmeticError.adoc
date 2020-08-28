@@ -1,0 +1,2 @@
+ Invalid use of arithmetic, such as dividing by zero.
+

@@ -1,0 +1,2 @@
+ This query builds a cartesian product between disconnected patterns.
+

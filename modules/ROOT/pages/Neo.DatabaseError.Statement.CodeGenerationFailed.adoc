@@ -1,0 +1,2 @@
+ The database was unable to generate code for the query. A stacktrace can be found in the debug.log.
+

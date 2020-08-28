@@ -1,0 +1,2 @@
+ Adding a schema index may speed up this query.
+

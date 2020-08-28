@@ -1,0 +1,2 @@
+ The query used a procedure that generated a warning.
+

@@ -1,0 +1,2 @@
+ The statement is syntactically valid, but expresses something that the database cannot do.
+

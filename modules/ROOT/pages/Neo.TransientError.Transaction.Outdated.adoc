@@ -1,0 +1,2 @@
+ Transaction has seen state which has been invalidated by applied updates while transaction was active. Transaction may succeed if retried.
+

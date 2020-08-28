@@ -1,0 +1,2 @@
+ The database was unable to write transaction to log.
+

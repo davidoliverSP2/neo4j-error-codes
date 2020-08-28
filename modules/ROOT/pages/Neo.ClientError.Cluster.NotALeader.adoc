@@ -1,0 +1,2 @@
+ The request cannot be processed by this server. Write requests can only be processed by the leader.
+

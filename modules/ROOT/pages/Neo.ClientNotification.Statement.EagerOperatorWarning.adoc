@@ -1,0 +1,2 @@
+ The execution plan for this query contains the Eager operator, which forces all dependent data to be materialized in main memory before proceeding
+

@@ -1,0 +1,2 @@
+ The transaction has not completed within the specified timeout (dbms.transaction.timeout). You may want to retry with a longer timeout.
+

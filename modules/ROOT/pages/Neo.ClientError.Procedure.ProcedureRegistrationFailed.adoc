@@ -1,0 +1,2 @@
+ The database failed to register a procedure, refer to the associated error message for details.
+

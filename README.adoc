@@ -44,3 +44,11 @@ git push origin HEAD:publish
 
 At the end of the build process, the files are uploaded to the `static-content.neo4j.com` S3 Bucket.  From there, they are synced up to the Neo4j.com server once an hour, on the hour by a cronjob.
 
+== Pre-processing hints
+
+Migrating https://neo4j.com/docs/status-codes/current/ HTML to individual adoc pages...
+
+1. save as source HTML
+2. convert to adoc using pandoc `pandoc --wrap=none -f html -t asciidoc neo4j-status-codes.html > codes.adoc`
+3. edit by hand to trim down to the `|` delimited table
+4. process that into individual pages `csvcut -c 1,2 -d "|" codes.csv | csvformat -U 1 -D " " | xargs -n2 sh -c 'echo "$2\n" > tmp/$1.adoc' sh`

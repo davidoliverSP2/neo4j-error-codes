@@ -1,0 +1,2 @@
+ Queries using dynamic properties will use neither index seeks nor index scans for those properties
+

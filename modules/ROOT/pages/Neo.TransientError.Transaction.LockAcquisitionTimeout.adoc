@@ -1,0 +1,2 @@
+ Unable to acquire lock within configured timeout (dbms.lock.acquisition.timeout).
+

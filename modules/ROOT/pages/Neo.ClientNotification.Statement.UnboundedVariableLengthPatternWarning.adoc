@@ -1,0 +1,2 @@
+ The provided pattern is unbounded, consider adding an upper limit to the number of node hops.
+
